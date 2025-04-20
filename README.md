@@ -2,6 +2,7 @@
 <h3 align="center">Turning ideas into code with passion and precision</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mythribala&label=Profile%20views&color=0e75b6&style=flat" alt="mythribala" /> </p>
+
 - 🔭 I’m currently pursuing **B.Tech in Computer Science and Business Systems at PSG Institute of Technology and Applied Research.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/mythribala](https://github.com/mythribala)
