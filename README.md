@@ -33,7 +33,6 @@
   <img src="https://leetcard.jacoblin.cool/my3_bala?ext=heatmap" width="450">
 </a>
 
-<br/>
 
 <h3 align="left">Codeforces:</h3>
 <a href="https://codeforces.com/profile/mythribala" target="_blank">
